@@ -14,5 +14,7 @@ Transactions data in the past 3 months.”
 There are three tasks to be done during the virtual internship, they are:
 
 Data Quality Assessment
+
 Model Development
+
 Data Visualization
